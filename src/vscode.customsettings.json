@@ -184,7 +184,7 @@
 				],
 				"settings": {
 					"fontStyle": "italic",
-					"foreground": "#4A4A4A"
+					"foreground": "#777474"
 				}
 			},
 			{
@@ -207,10 +207,17 @@
 				}
 			},
 			{
-				"scope": "entity.other.attribute-name",
+				"scope": "meta.attribute.class.html",
 				"settings": {
 					"fontStyle": "italic",
-					"foreground": "#1058d5"
+					"foreground": "#f6a655"
+				}
+			},
+			{
+				"scope": "meta.attribute.formGroupName.html",
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#65f113"
 				}
 			},
 			{
