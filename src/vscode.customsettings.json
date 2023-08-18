@@ -1,0 +1,337 @@
+{
+	"html.format.wrapAttributes": "force",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"emmet.triggerExpansionOnTab": true,
+	"[blade]": {},
+	"editor.defaultFormatter": "Angular.ng-template",
+	"workbench.iconTheme": "vscode-icons",
+	"files.associations": {
+		"*.hmtl": "html",
+		"*.blade.php": "blade",
+		"*.tpl": "blade",
+		"*.php": "blade"
+	},
+	"blade.format.enable": true,
+	"beautify.config": "",
+	"beautify.language": {
+		"js": {
+			"type": [
+				"javascript",
+				"json"
+			],
+			"filename": [
+				".jshintrc",
+				".jsbeautifyrc"
+			]
+		},
+		"css": [
+			"css",
+			"scss"
+		],
+		"html": [
+			"erb",
+			"php"
+		]
+	},
+	"[ruby]": {
+		"editor.defaultFormatter": "misogi.ruby-rubocop"
+	},
+	"liveServer.settings.donotShowInfoMsg": true,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"security.workspace.trust.untrustedFiles": "open",
+	"editor.definitionLinkOpensInPeek": true,
+	"ruby.intellisense": "rubyLocate",
+	"cmake.configureOnOpen": true,
+	"ruby.codeCompletion": "rcodetools",
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"tabnine.experimentalAutoImports": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"eslint.run": "onSave",
+	"vsicons.dontShowNewVersionMessage": true,
+	"editor.guides.bracketPairs": true,
+	"editor.inlineSuggest.enabled": true,
+	"terminal.integrated.enableMultiLinePasteWarning": false,
+	"editor.autoIndent": "none",
+	"editor.insertSpaces": false,
+	"diffEditor.codeLens": true,
+	"editor.tabSize": 2,
+	"editor.stickyTabStops": true,
+	"[dockercompose]": {
+		"editor.defaultFormatter": "ms-azuretools.vscode-docker"
+	},
+	"editor.largeFileOptimizations": false,
+	"[yaml]": {
+		"editor.defaultFormatter": "redhat.vscode-yaml"
+	},
+	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"redhat.telemetry.enabled": true,
+	"explorer.confirmDelete": false,
+	"[python]": {
+		"editor.formatOnType": true
+	},
+	"[handlebars]": {
+		"editor.defaultFormatter": "mohd-akram.vscode-html-format"
+	},
+	"[erb]": {
+		"editor.defaultFormatter": "aliariff.vscode-erb-beautify"
+	},
+	"terminal.integrated.env.osx": {},
+	"[scss]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"editor.formatOnSave": true,
+	"ruby.specCommand": "docker-compose run web bundle exec rspec",
+	"ruby.specSaveFile": true,
+	"files.exclude": {
+		"": true,
+		"/.reek": true
+	},
+	"typescript.enablePromptUseWorkspaceTsdk": true,
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"workbench.startupEditor": "none",
+	"vscode-angular-html.angularAnimationTriggerPrefix": "",
+	"vscode-angular-html.angularBindingAttributeDelimiter": "",
+	"vscode-angular-html.angularExpression": "",
+	"vscode-angular-html.angularPrefixedAttributesRefPrefix": "",
+	"vscode-angular-html.angularSyntaxSugarAttributesPrefix": "",
+	"vscode-angular-html.angularTemplateVariablePrefix": "",
+	"vscode-angular-html.dtdDoctypeQuantifier": "",
+	"vscode-angular-html.xmlAttributeNamespaceDivider": "",
+	"vscode-angular-html.xmlTagNamespaceDivider": "",
+	"vscode-angular-html.angularAndAngularMaterialElementTags": "",
+	"vscode-angular-html.angularAnimationTriggerVariableName": "",
+	"vscode-angular-html.angularEventHandlerName": "",
+	"vscode-angular-html.angularExpressionOperatorsAndNavigatorsColor": "",
+	"vscode-angular-html.angularOneWayBindingAnimationTriggerDecorator": "",
+	"vscode-angular-html.angularOneWayBindingSecondLevelDepth": "",
+	"vscode-angular-html.angularOneWayBindingThirdLevelDepth": "",
+	"vscode-angular-html.angularPrefixedAttributesLetPrefix": "",
+	"vscode-angular-html.angularPrefixedAttributesRxjsSuffix": "",
+	"vscode-angular-html.angularPrefixedAttributesVariableName": "",
+	"vscode-angular-html.angularSyntaxSugarAttributesName": "",
+	"vscode-angular-html.angularTemplateVariableName": "",
+	"vscode-angular-html.dtdDoctypeElement": "",
+	"vscode-angular-html.dtdDoctypeExclamation": "",
+	"vscode-angular-html.dtdDoctypeQualifier": "",
+	"vscode-angular-html.htmlAttributeValueSeparator": "",
+	"vscode-angular-html.htmlCustomTags": "",
+	"vscode-angular-html.htmlDoctypeAttributes": "",
+	"vscode-angular-html.htmlDoctypeElement": "",
+	"vscode-angular-html.htmlDoctypeExclamation": "",
+	"vscode-angular-html.htmlEntitiesAmpersand": "",
+	"vscode-angular-html.htmlEntitiesSemicolon": "",
+	"vscode-angular-html.htmlEventsAttributes": "",
+	"vscode-angular-html.htmlGenericAttributesFollowedByParameter": "",
+	"vscode-angular-html.htmlScriptAttributesLanguageIdentifier": "",
+	"vscode-angular-html.htmlLinkAttributesMimeType": "",
+	"vscode-angular-html.htmlStyleAttributesLanguageIdentifier": "",
+	"vscode-angular-html.htmlTags": "",
+	"vscode-angular-html.primeNgElementTags": "",
+	"vscode-angular-html.svgDAttributePathCommands": "",
+	"vscode-angular-html.svgTags": "",
+	"vscode-angular-html.ariaAttributeSuffix": "",
+	"vscode-angular-html.dataAttributePrefix": "",
+	"vscode-angular-html.dataAttributeSuffix": "",
+	"vscode-angular-html.xmlAttributeNamespaceSuffix": "",
+	"vscode-angular-html.xmlStylesheetAttributesLanguageIdentifier": "",
+	"vscode-angular-html.xmlTagNamespaceSuffix": "",
+	"vscode-angular-html.colorCustomizations": true,
+	"typescript.inlayHints.enumMemberValues.enabled": true,
+	"window.autoDetectColorScheme": true,
+	"json.schemas": [],
+	"launch": {
+		"configurations": [],
+		"compounds": []
+	},
+	"workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+	"workbench.colorTheme": "One Dark Pro",
+	"typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"editor.fontFamily": "'Cascadia Code PL', Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 13,
+	"editor.tokenColorCustomizations": {
+		"textMateRules": [
+			{
+				"scope": [
+					"html-template.ng.attributes.suffix.sugar",
+					"meta.attribute.formControlName.html"
+				],
+				"settings": {
+					"foreground": "#eeff00",
+					"fontStyle": "bold"
+				}
+			},
+			{
+				"name": "Comment",
+				"scope": [
+					"comment",
+					"punctuation.definition.comment"
+				],
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#4A4A4A"
+				}
+			},
+			{
+				"name": "Keyword, Storage",
+				"scope": [
+					"Keyword",
+					"Storage"
+				],
+				"settings": {
+					"fontStyle": "italic"
+				}
+			},
+			{
+				"name": "Keyword Control",
+				"scope": [
+					"keyword.control"
+				],
+				"settings": {
+					"fontStyle": "italic"
+				}
+			},
+			{
+				"scope": "entity.other.attribute-name",
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#1058d5"
+				}
+			},
+			{
+				"scope": "entity.name.function",
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#a5a5a5"
+				}
+			},
+			{
+				"name": "entity.name.method.js",
+				"scope": [
+					"entity.name.method.js"
+				],
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#82AAFF"
+				}
+			},
+			{
+				"name": "Language methods",
+				"scope": [
+					"variable.language"
+				],
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#FF5370"
+				}
+			},
+			{
+				"name": "HTML Attributes",
+				"scope": [
+					"text.html.basic entity.other.attribute-name.html",
+					"text.html.basic entity.other.attribute-name"
+				],
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#9dff00"
+				}
+			},
+			{
+				"name": "Decorators",
+				"scope": [
+					"tag.decorator.js entity.name.tag.js",
+					"tag.decorator.js punctuation.definition.tag.js"
+				],
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#82AAFF"
+				}
+			},
+			{
+				"name": "ES7 Bind Operator",
+				"scope": [
+					"source.js constant.other.object.key.js string.unquoted.label.js"
+				],
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#FF5370"
+				}
+			},
+			{
+				"name": "Markup - Italic",
+				"scope": [
+					"markup.italic"
+				],
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#f07178"
+				}
+			},
+			{
+				"name": "Markup - Bold-Italic",
+				"scope": [
+					"markup.bold markup.italic",
+					"markup.italic markup.bold",
+					"markup.quote markup.bold",
+					"markup.bold markup.italic string",
+					"markup.italic markup.bold string",
+					"markup.quote markup.bold string"
+				],
+				"settings": {
+					"fontStyle": "bold",
+					"foreground": "#f07178"
+				}
+			},
+			{
+				"name": "Markup - Quote",
+				"scope": [
+					"markup.quote"
+				],
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#82fbff"
+				}
+			},
+			{
+				"scope": "variable.other",
+				"settings": {
+					"foreground": "#82fbff"
+				}
+			},
+			{
+				"scope": "entity.name.function",
+				"settings": {
+					"foreground": "#f8db00"
+				}
+			},
+			{
+				"scope": "support.function",
+				"settings": {
+					"fontStyle": "italic",
+					"foreground": "#9b0ef9"
+				}
+			},
+			{
+				"scope": "string",
+				"settings": {
+					"foreground": "#e29b7f"
+				}
+			}
+		]
+	},
+}
