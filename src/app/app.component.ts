@@ -24,6 +24,15 @@ export default class AppComponent implements OnInit {
       'gender': new FormControl('soy un perro'),
       'hobbies': new FormArray([])
     });
+    // this.signupForm.valueChanges.subscribe(
+    //   (value) => {
+    //     console.log(value);
+    //   });
+
+    this.signupForm.statusChanges.subscribe(
+      (value) => {
+        console.log(value);
+      });
 
   }
 
